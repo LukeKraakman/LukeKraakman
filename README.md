@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LukeKraakman
 - 👀 I’m interested in Cyber Security
 - 🌱 I’m currently learning IT at Hogenschool Utrecht 
-- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: https://nl.linkedin.com/in/luke-kraakman-3a7964194 
 
 <!---
